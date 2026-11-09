@@ -1,0 +1,7442 @@
+[
+ {
+  "n": 21,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot / examples",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 21,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot / examples",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 21,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot / examples",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 21,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0.8,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    true
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot / examples",
+    true
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 21,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0.4,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot / examples",
+    true
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 21,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot / examples",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 21,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot / examples",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 21,
+  "answer": "Define RTCFR in simple words.",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot / examples",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 21,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot / examples",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 21,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot / examples",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 21,
+  "answer": "Role. Task. Context. Few-shot / examples. Response format",
+  "score": 2,
+  "hits": [
+   [
+    "Role",
+    true
+   ],
+   [
+    "Task",
+    true
+   ],
+   [
+    "Context",
+    true
+   ],
+   [
+    "Few-shot / examples",
+    true
+   ],
+   [
+    "Response format",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 21,
+  "answer": " Role and Task and Context and Few-shot / examples and Response format plus more words to pass the minimum",
+  "score": 2,
+  "hits": [
+   [
+    "Role",
+    true
+   ],
+   [
+    "Task",
+    true
+   ],
+   [
+    "Context",
+    true
+   ],
+   [
+    "Few-shot / examples",
+    true
+   ],
+   [
+    "Response format",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 22,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 22,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 22,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 22,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0.8,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    true
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot",
+    true
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 22,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0.4,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot",
+    true
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 22,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 22,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 22,
+  "answer": "Write the five components of RTCFR.",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 22,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 22,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task",
+    false
+   ],
+   [
+    "Context",
+    false
+   ],
+   [
+    "Few-shot",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 22,
+  "answer": "Role. Task. Context. Few-shot. Response format",
+  "score": 2,
+  "hits": [
+   [
+    "Role",
+    true
+   ],
+   [
+    "Task",
+    true
+   ],
+   [
+    "Context",
+    true
+   ],
+   [
+    "Few-shot",
+    true
+   ],
+   [
+    "Response format",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 22,
+  "answer": " Role and Task and Context and Few-shot and Response format plus more words to pass the minimum",
+  "score": 2,
+  "hits": [
+   [
+    "Role",
+    true
+   ],
+   [
+    "Task",
+    true
+   ],
+   [
+    "Context",
+    true
+   ],
+   [
+    "Few-shot",
+    true
+   ],
+   [
+    "Response format",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 23,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Expert identity / perspective",
+    false
+   ],
+   [
+    "Effect on output quality",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 23,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Expert identity / perspective",
+    false
+   ],
+   [
+    "Effect on output quality",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 23,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 1,
+  "hits": [
+   [
+    "Expert identity / perspective",
+    true
+   ],
+   [
+    "Effect on output quality",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 23,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 1,
+  "hits": [
+   [
+    "Expert identity / perspective",
+    false
+   ],
+   [
+    "Effect on output quality",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 23,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0,
+  "hits": [
+   [
+    "Expert identity / perspective",
+    false
+   ],
+   [
+    "Effect on output quality",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 23,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Expert identity / perspective",
+    false
+   ],
+   [
+    "Effect on output quality",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 23,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Expert identity / perspective",
+    false
+   ],
+   [
+    "Effect on output quality",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 23,
+  "answer": "Why is Role important in a prompt?",
+  "score": 0,
+  "hits": [
+   [
+    "Expert identity / perspective",
+    false
+   ],
+   [
+    "Effect on output quality",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 23,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Expert identity / perspective",
+    false
+   ],
+   [
+    "Effect on output quality",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 23,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Expert identity / perspective",
+    false
+   ],
+   [
+    "Effect on output quality",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 23,
+  "answer": "Expert identity / perspective. Effect on output quality",
+  "score": 2,
+  "hits": [
+   [
+    "Expert identity / perspective",
+    true
+   ],
+   [
+    "Effect on output quality",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 23,
+  "answer": " Expert identity / perspective and Effect on output quality plus more words to pass the minimum",
+  "score": 2,
+  "hits": [
+   [
+    "Expert identity / perspective",
+    true
+   ],
+   [
+    "Effect on output quality",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 24,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role prompt examples",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 24,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Role prompt examples",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 24,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 2,
+  "hits": [
+   [
+    "Role prompt examples (2 found)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 24,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 1,
+  "hits": [
+   [
+    "Role prompt examples (1 found)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 24,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0,
+  "hits": [
+   [
+    "Role prompt examples (0 found)",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 24,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Role prompt examples (0 found)",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 24,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Role prompt examples (0 found)",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 24,
+  "answer": "Write two examples of good Role prompts.",
+  "score": 0,
+  "hits": [
+   [
+    "Role prompt examples (0 found)",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 24,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role prompt examples",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 24,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role prompt examples",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 24,
+  "answer": "Role prompt examples",
+  "score": 0,
+  "hits": [
+   [
+    "Role prompt examples (0 found)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 24,
+  "answer": " Role prompt examples plus more words to pass the minimum",
+  "score": 0,
+  "hits": [
+   [
+    "Role prompt examples (0 found)",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 25,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Task = the work to perform",
+    false
+   ],
+   [
+    "Context = background information",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 25,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Task = the work to perform",
+    false
+   ],
+   [
+    "Context = background information",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 25,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Task = the work to perform",
+    false
+   ],
+   [
+    "Context = background information",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 25,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 1,
+  "hits": [
+   [
+    "Task = the work to perform",
+    true
+   ],
+   [
+    "Context = background information",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 25,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0,
+  "hits": [
+   [
+    "Task = the work to perform",
+    false
+   ],
+   [
+    "Context = background information",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 25,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Task = the work to perform",
+    false
+   ],
+   [
+    "Context = background information",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 25,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Task = the work to perform",
+    false
+   ],
+   [
+    "Context = background information",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 25,
+  "answer": "What is the difference between Task and Context?",
+  "score": 0,
+  "hits": [
+   [
+    "Task = the work to perform",
+    false
+   ],
+   [
+    "Context = background information",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 25,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Task = the work to perform",
+    false
+   ],
+   [
+    "Context = background information",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 25,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Task = the work to perform",
+    false
+   ],
+   [
+    "Context = background information",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 25,
+  "answer": "Task = the work to perform. Context = background information",
+  "score": 2,
+  "hits": [
+   [
+    "Task = the work to perform",
+    true
+   ],
+   [
+    "Context = background information",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 25,
+  "answer": " Task = the work to perform and Context = background information plus more words to pass the minimum",
+  "score": 2,
+  "hits": [
+   [
+    "Task = the work to perform",
+    true
+   ],
+   [
+    "Context = background information",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 26,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Action verb",
+    false
+   ],
+   [
+    "Specific scope (audience, length, topic)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 26,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Action verb",
+    false
+   ],
+   [
+    "Specific scope (audience, length, topic)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 26,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Action verb",
+    false
+   ],
+   [
+    "Specific scope (audience, length, topic)",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 26,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 2,
+  "hits": [
+   [
+    "Action verb",
+    true
+   ],
+   [
+    "Specific scope (audience, length, topic)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 26,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 2,
+  "hits": [
+   [
+    "Action verb",
+    true
+   ],
+   [
+    "Specific scope (audience, length, topic)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 26,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 2,
+  "hits": [
+   [
+    "Action verb",
+    true
+   ],
+   [
+    "Specific scope (audience, length, topic)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 26,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 2,
+  "hits": [
+   [
+    "Action verb",
+    true
+   ],
+   [
+    "Specific scope (audience, length, topic)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 26,
+  "answer": "Write one example of a clear Task prompt.",
+  "score": 1,
+  "hits": [
+   [
+    "Action verb",
+    true
+   ],
+   [
+    "Specific scope (audience, length, topic)",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 26,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Action verb",
+    false
+   ],
+   [
+    "Specific scope (audience, length, topic)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 26,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Action verb",
+    false
+   ],
+   [
+    "Specific scope (audience, length, topic)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 26,
+  "answer": "Action verb. Specific scope (audience, length, topic)",
+  "score": 1,
+  "hits": [
+   [
+    "Action verb",
+    false
+   ],
+   [
+    "Specific scope (audience, length, topic)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 26,
+  "answer": " Action verb and Specific scope (audience, length, topic) plus more words to pass the minimum",
+  "score": 1,
+  "hits": [
+   [
+    "Action verb",
+    false
+   ],
+   [
+    "Specific scope (audience, length, topic)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 27,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Giving examples",
+    false
+   ],
+   [
+    "To guide style / pattern / output",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 27,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Giving examples",
+    false
+   ],
+   [
+    "To guide style / pattern / output",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 27,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Giving examples",
+    false
+   ],
+   [
+    "To guide style / pattern / output",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 27,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 2,
+  "hits": [
+   [
+    "Giving examples",
+    true
+   ],
+   [
+    "To guide style / pattern / output",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 27,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 1,
+  "hits": [
+   [
+    "Giving examples",
+    true
+   ],
+   [
+    "To guide style / pattern / output",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 27,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 1,
+  "hits": [
+   [
+    "Giving examples",
+    false
+   ],
+   [
+    "To guide style / pattern / output",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 27,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 1,
+  "hits": [
+   [
+    "Giving examples",
+    false
+   ],
+   [
+    "To guide style / pattern / output",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 27,
+  "answer": "What is Few-shot prompting?",
+  "score": 0,
+  "hits": [
+   [
+    "Giving examples",
+    false
+   ],
+   [
+    "To guide style / pattern / output",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 27,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Giving examples",
+    false
+   ],
+   [
+    "To guide style / pattern / output",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 27,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Giving examples",
+    false
+   ],
+   [
+    "To guide style / pattern / output",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 27,
+  "answer": "Giving examples. To guide style / pattern / output",
+  "score": 2,
+  "hits": [
+   [
+    "Giving examples",
+    true
+   ],
+   [
+    "To guide style / pattern / output",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 27,
+  "answer": " Giving examples and To guide style / pattern / output plus more words to pass the minimum",
+  "score": 2,
+  "hits": [
+   [
+    "Giving examples",
+    true
+   ],
+   [
+    "To guide style / pattern / output",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 28,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "States examples are given",
+    false
+   ],
+   [
+    "Asks for titles",
+    false
+   ],
+   [
+    "Contains 2+ listed examples",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 28,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "States examples are given",
+    false
+   ],
+   [
+    "Asks for titles",
+    false
+   ],
+   [
+    "Contains 2+ listed examples",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 28,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "States examples are given",
+    false
+   ],
+   [
+    "Asks for titles",
+    false
+   ],
+   [
+    "Contains 2+ listed examples",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 28,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0.7,
+  "hits": [
+   [
+    "States examples are given",
+    true
+   ],
+   [
+    "Asks for titles",
+    false
+   ],
+   [
+    "Contains 2+ listed examples",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 28,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0.7,
+  "hits": [
+   [
+    "States examples are given",
+    true
+   ],
+   [
+    "Asks for titles",
+    false
+   ],
+   [
+    "Contains 2+ listed examples",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 28,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 1.3,
+  "hits": [
+   [
+    "States examples are given",
+    false
+   ],
+   [
+    "Asks for titles",
+    true
+   ],
+   [
+    "Contains 2+ listed examples",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 28,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "States examples are given",
+    false
+   ],
+   [
+    "Asks for titles",
+    false
+   ],
+   [
+    "Contains 2+ listed examples",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 28,
+  "answer": "Write one example of Few-shot prompting for YouTube titles.",
+  "score": 1.3,
+  "hits": [
+   [
+    "States examples are given",
+    true
+   ],
+   [
+    "Asks for titles",
+    true
+   ],
+   [
+    "Contains 2+ listed examples",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 28,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "States examples are given",
+    false
+   ],
+   [
+    "Asks for titles",
+    false
+   ],
+   [
+    "Contains 2+ listed examples",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 28,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "States examples are given",
+    false
+   ],
+   [
+    "Asks for titles",
+    false
+   ],
+   [
+    "Contains 2+ listed examples",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 28,
+  "answer": "States examples are given. Asks for titles. Contains 2+ listed examples",
+  "score": 1.3,
+  "hits": [
+   [
+    "States examples are given",
+    true
+   ],
+   [
+    "Asks for titles",
+    true
+   ],
+   [
+    "Contains 2+ listed examples",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 28,
+  "answer": " States examples are given and Asks for titles and Contains 2+ listed examples plus more words to pass the minimum",
+  "score": 1.3,
+  "hits": [
+   [
+    "States examples are given",
+    true
+   ],
+   [
+    "Asks for titles",
+    true
+   ],
+   [
+    "Contains 2+ listed examples",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 29,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "How the output is structured",
+    false
+   ],
+   [
+    "Names a format type",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 29,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "How the output is structured",
+    false
+   ],
+   [
+    "Names a format type",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 29,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "How the output is structured",
+    false
+   ],
+   [
+    "Names a format type",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 29,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 1,
+  "hits": [
+   [
+    "How the output is structured",
+    false
+   ],
+   [
+    "Names a format type",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 29,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 2,
+  "hits": [
+   [
+    "How the output is structured",
+    true
+   ],
+   [
+    "Names a format type",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 29,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "How the output is structured",
+    false
+   ],
+   [
+    "Names a format type",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 29,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "How the output is structured",
+    false
+   ],
+   [
+    "Names a format type",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 29,
+  "answer": "What is Response format in prompting?",
+  "score": 0,
+  "hits": [
+   [
+    "How the output is structured",
+    false
+   ],
+   [
+    "Names a format type",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 29,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "How the output is structured",
+    false
+   ],
+   [
+    "Names a format type",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 29,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "How the output is structured",
+    false
+   ],
+   [
+    "Names a format type",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 29,
+  "answer": "How the output is structured. Names a format type",
+  "score": 1,
+  "hits": [
+   [
+    "How the output is structured",
+    true
+   ],
+   [
+    "Names a format type",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 29,
+  "answer": " How the output is structured and Names a format type plus more words to pass the minimum",
+  "score": 1,
+  "hits": [
+   [
+    "How the output is structured",
+    true
+   ],
+   [
+    "Names a format type",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 30,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Distinct formats named",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 30,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Distinct formats named",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 30,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Distinct formats named (0 found)",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 30,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 2,
+  "hits": [
+   [
+    "Distinct formats named (3 found)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 30,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 2,
+  "hits": [
+   [
+    "Distinct formats named (3 found)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 30,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0.7,
+  "hits": [
+   [
+    "Distinct formats named (1 found)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 30,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0.7,
+  "hits": [
+   [
+    "Distinct formats named (1 found)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 30,
+  "answer": "Write three examples of response formats.",
+  "score": 0,
+  "hits": [
+   [
+    "Distinct formats named (0 found)",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 30,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Distinct formats named",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 30,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Distinct formats named",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 30,
+  "answer": "Distinct formats named",
+  "score": 0,
+  "hits": [
+   [
+    "Distinct formats named (0 found)",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 30,
+  "answer": " Distinct formats named plus more words to pass the minimum",
+  "score": 0,
+  "hits": [
+   [
+    "Distinct formats named (0 found)",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 31,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Breaking a big task into multiple prompts",
+    false
+   ],
+   [
+    "Output of one feeds the next",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 31,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Breaking a big task into multiple prompts",
+    false
+   ],
+   [
+    "Output of one feeds the next",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 31,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Breaking a big task into multiple prompts",
+    false
+   ],
+   [
+    "Output of one feeds the next",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 31,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0,
+  "hits": [
+   [
+    "Breaking a big task into multiple prompts",
+    false
+   ],
+   [
+    "Output of one feeds the next",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 31,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0,
+  "hits": [
+   [
+    "Breaking a big task into multiple prompts",
+    false
+   ],
+   [
+    "Output of one feeds the next",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 31,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 1,
+  "hits": [
+   [
+    "Breaking a big task into multiple prompts",
+    false
+   ],
+   [
+    "Output of one feeds the next",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 31,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Breaking a big task into multiple prompts",
+    false
+   ],
+   [
+    "Output of one feeds the next",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 31,
+  "answer": "What is prompt chaining?",
+  "score": 0,
+  "hits": [
+   [
+    "Breaking a big task into multiple prompts",
+    false
+   ],
+   [
+    "Output of one feeds the next",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 31,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Breaking a big task into multiple prompts",
+    false
+   ],
+   [
+    "Output of one feeds the next",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 31,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Breaking a big task into multiple prompts",
+    false
+   ],
+   [
+    "Output of one feeds the next",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 31,
+  "answer": "Breaking a big task into multiple prompts. Output of one feeds the next",
+  "score": 2,
+  "hits": [
+   [
+    "Breaking a big task into multiple prompts",
+    true
+   ],
+   [
+    "Output of one feeds the next",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 31,
+  "answer": " Breaking a big task into multiple prompts and Output of one feeds the next plus more words to pass the minimum",
+  "score": 2,
+  "hits": [
+   [
+    "Breaking a big task into multiple prompts",
+    true
+   ],
+   [
+    "Output of one feeds the next",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 32,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Sequential: each step depends on previous output",
+    false
+   ],
+   [
+    "Normal: single, standalone prompt",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 32,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Sequential: each step depends on previous output",
+    false
+   ],
+   [
+    "Normal: single, standalone prompt",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 32,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Sequential: each step depends on previous output",
+    false
+   ],
+   [
+    "Normal: single, standalone prompt",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 32,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0,
+  "hits": [
+   [
+    "Sequential: each step depends on previous output",
+    false
+   ],
+   [
+    "Normal: single, standalone prompt",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 32,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 1,
+  "hits": [
+   [
+    "Sequential: each step depends on previous output",
+    true
+   ],
+   [
+    "Normal: single, standalone prompt",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 32,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 1,
+  "hits": [
+   [
+    "Sequential: each step depends on previous output",
+    true
+   ],
+   [
+    "Normal: single, standalone prompt",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 32,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Sequential: each step depends on previous output",
+    false
+   ],
+   [
+    "Normal: single, standalone prompt",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 32,
+  "answer": "What is the difference between Sequential prompting and normal prompting?",
+  "score": 0,
+  "hits": [
+   [
+    "Sequential: each step depends on previous output",
+    false
+   ],
+   [
+    "Normal: single, standalone prompt",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 32,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Sequential: each step depends on previous output",
+    false
+   ],
+   [
+    "Normal: single, standalone prompt",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 32,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Sequential: each step depends on previous output",
+    false
+   ],
+   [
+    "Normal: single, standalone prompt",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 32,
+  "answer": "Sequential: each step depends on previous output. Normal: single, standalone prompt",
+  "score": 2,
+  "hits": [
+   [
+    "Sequential: each step depends on previous output",
+    true
+   ],
+   [
+    "Normal: single, standalone prompt",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 32,
+  "answer": " Sequential: each step depends on previous output and Normal: single, standalone prompt plus more words to pass the minimum",
+  "score": 2,
+  "hits": [
+   [
+    "Sequential: each step depends on previous output",
+    true
+   ],
+   [
+    "Normal: single, standalone prompt",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 33,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Step-by-step reasoning",
+    false
+   ],
+   [
+    "Better accuracy on complex problems",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 33,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Step-by-step reasoning",
+    false
+   ],
+   [
+    "Better accuracy on complex problems",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 33,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Step-by-step reasoning",
+    false
+   ],
+   [
+    "Better accuracy on complex problems",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 33,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 1,
+  "hits": [
+   [
+    "Step-by-step reasoning",
+    true
+   ],
+   [
+    "Better accuracy on complex problems",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 33,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 1,
+  "hits": [
+   [
+    "Step-by-step reasoning",
+    true
+   ],
+   [
+    "Better accuracy on complex problems",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 33,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Step-by-step reasoning",
+    false
+   ],
+   [
+    "Better accuracy on complex problems",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 33,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 1,
+  "hits": [
+   [
+    "Step-by-step reasoning",
+    true
+   ],
+   [
+    "Better accuracy on complex problems",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 33,
+  "answer": "What is the purpose of CoT prompting?",
+  "score": 0,
+  "hits": [
+   [
+    "Step-by-step reasoning",
+    false
+   ],
+   [
+    "Better accuracy on complex problems",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 33,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Step-by-step reasoning",
+    false
+   ],
+   [
+    "Better accuracy on complex problems",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 33,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Step-by-step reasoning",
+    false
+   ],
+   [
+    "Better accuracy on complex problems",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 33,
+  "answer": "Step-by-step reasoning. Better accuracy on complex problems",
+  "score": 2,
+  "hits": [
+   [
+    "Step-by-step reasoning",
+    true
+   ],
+   [
+    "Better accuracy on complex problems",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 33,
+  "answer": " Step-by-step reasoning and Better accuracy on complex problems plus more words to pass the minimum",
+  "score": 2,
+  "hits": [
+   [
+    "Step-by-step reasoning",
+    true
+   ],
+   [
+    "Better accuracy on complex problems",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 34,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Malicious instruction overriding the original",
+    false
+   ],
+   [
+    "Example given",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 34,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Malicious instruction overriding the original",
+    false
+   ],
+   [
+    "Example given",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 34,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Malicious instruction overriding the original",
+    false
+   ],
+   [
+    "Example given",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 34,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0,
+  "hits": [
+   [
+    "Malicious instruction overriding the original",
+    false
+   ],
+   [
+    "Example given",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 34,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0,
+  "hits": [
+   [
+    "Malicious instruction overriding the original",
+    false
+   ],
+   [
+    "Example given",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 34,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Malicious instruction overriding the original",
+    false
+   ],
+   [
+    "Example given",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 34,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Malicious instruction overriding the original",
+    false
+   ],
+   [
+    "Example given",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 34,
+  "answer": "What is prompt injection? Give one simple example.",
+  "score": 0,
+  "hits": [
+   [
+    "Malicious instruction overriding the original",
+    false
+   ],
+   [
+    "Example given",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 34,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Malicious instruction overriding the original",
+    false
+   ],
+   [
+    "Example given",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 34,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Malicious instruction overriding the original",
+    false
+   ],
+   [
+    "Example given",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 34,
+  "answer": "Malicious instruction overriding the original. Example given",
+  "score": 0.8,
+  "hits": [
+   [
+    "Malicious instruction overriding the original",
+    true
+   ],
+   [
+    "Example given",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 34,
+  "answer": " Malicious instruction overriding the original and Example given plus more words to pass the minimum",
+  "score": 1,
+  "hits": [
+   [
+    "Malicious instruction overriding the original",
+    true
+   ],
+   [
+    "Example given",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 35,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "AI creates the prompt from an output / goal",
+    false
+   ],
+   [
+    "Use case named",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 35,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "AI creates the prompt from an output / goal",
+    false
+   ],
+   [
+    "Use case named",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 35,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "AI creates the prompt from an output / goal",
+    false
+   ],
+   [
+    "Use case named",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 35,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0,
+  "hits": [
+   [
+    "AI creates the prompt from an output / goal",
+    false
+   ],
+   [
+    "Use case named",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 35,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0,
+  "hits": [
+   [
+    "AI creates the prompt from an output / goal",
+    false
+   ],
+   [
+    "Use case named",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 35,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "AI creates the prompt from an output / goal",
+    false
+   ],
+   [
+    "Use case named",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 35,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 1,
+  "hits": [
+   [
+    "AI creates the prompt from an output / goal",
+    false
+   ],
+   [
+    "Use case named",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 35,
+  "answer": "What is reverse prompting? Where can it be used?",
+  "score": 0,
+  "hits": [
+   [
+    "AI creates the prompt from an output / goal",
+    false
+   ],
+   [
+    "Use case named",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 35,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "AI creates the prompt from an output / goal",
+    false
+   ],
+   [
+    "Use case named",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 35,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "AI creates the prompt from an output / goal",
+    false
+   ],
+   [
+    "Use case named",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 35,
+  "answer": "AI creates the prompt from an output / goal. Use case named",
+  "score": 1,
+  "hits": [
+   [
+    "AI creates the prompt from an output / goal",
+    true
+   ],
+   [
+    "Use case named",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 35,
+  "answer": " AI creates the prompt from an output / goal and Use case named plus more words to pass the minimum",
+  "score": 1,
+  "hits": [
+   [
+    "AI creates the prompt from an output / goal",
+    true
+   ],
+   [
+    "Use case named",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 36,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task (script)",
+    false
+   ],
+   [
+    "Context (Tamil beginners)",
+    false
+   ],
+   [
+    "Few-shot example",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 36,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task (script)",
+    false
+   ],
+   [
+    "Context (Tamil beginners)",
+    false
+   ],
+   [
+    "Few-shot example",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 36,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0.5,
+  "hits": [
+   [
+    "Role",
+    true
+   ],
+   [
+    "Task (script)",
+    false
+   ],
+   [
+    "Context (Tamil beginners)",
+    false
+   ],
+   [
+    "Few-shot example",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 36,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 2.4,
+  "hits": [
+   [
+    "Role",
+    true
+   ],
+   [
+    "Task (script)",
+    false
+   ],
+   [
+    "Context (Tamil beginners)",
+    true
+   ],
+   [
+    "Few-shot example",
+    true
+   ],
+   [
+    "Response format",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 36,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 1.2,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task (script)",
+    false
+   ],
+   [
+    "Context (Tamil beginners)",
+    false
+   ],
+   [
+    "Few-shot example",
+    true
+   ],
+   [
+    "Response format",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 36,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0.6,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task (script)",
+    true
+   ],
+   [
+    "Context (Tamil beginners)",
+    false
+   ],
+   [
+    "Few-shot example",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 36,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task (script)",
+    false
+   ],
+   [
+    "Context (Tamil beginners)",
+    false
+   ],
+   [
+    "Few-shot example",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 36,
+  "answer": "Write an RTCFR prompt to create a YouTube video script about AI Agents for Tamil beginners.",
+  "score": 1,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task (script)",
+    true
+   ],
+   [
+    "Context (Tamil beginners)",
+    true
+   ],
+   [
+    "Few-shot example",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 36,
+  "answer": "Expected elements: Role, Task, Context, Few-shot example, Response format",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task (script)",
+    false
+   ],
+   [
+    "Context (Tamil beginners)",
+    false
+   ],
+   [
+    "Few-shot example",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 36,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task (script)",
+    false
+   ],
+   [
+    "Context (Tamil beginners)",
+    false
+   ],
+   [
+    "Few-shot example",
+    false
+   ],
+   [
+    "Response format",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 36,
+  "answer": "Role. Task (script). Context (Tamil beginners). Few-shot example. Response format",
+  "score": 1.9,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task (script)",
+    true
+   ],
+   [
+    "Context (Tamil beginners)",
+    true
+   ],
+   [
+    "Few-shot example",
+    true
+   ],
+   [
+    "Response format",
+    true
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 36,
+  "answer": " Role and Task (script) and Context (Tamil beginners) and Few-shot example and Response format plus more words to pass the minimum",
+  "score": 2.4,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task (script)",
+    true
+   ],
+   [
+    "Context (Tamil beginners)",
+    true
+   ],
+   [
+    "Few-shot example",
+    true
+   ],
+   [
+    "Response format",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 37,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task: email template",
+    false
+   ],
+   [
+    "Flow: Forms → Sheets",
+    false
+   ],
+   [
+    "Recipient: support team",
+    false
+   ],
+   [
+    "Format: subject, placeholders, fields",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 37,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task: email template",
+    false
+   ],
+   [
+    "Flow: Forms → Sheets",
+    false
+   ],
+   [
+    "Recipient: support team",
+    false
+   ],
+   [
+    "Format: subject, placeholders, fields",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 37,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0.4,
+  "hits": [
+   [
+    "Role",
+    true
+   ],
+   [
+    "Task: email template",
+    false
+   ],
+   [
+    "Flow: Forms → Sheets",
+    false
+   ],
+   [
+    "Recipient: support team",
+    false
+   ],
+   [
+    "Format: subject, placeholders, fields",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 37,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0.5,
+  "hits": [
+   [
+    "Role",
+    true
+   ],
+   [
+    "Task: email template",
+    false
+   ],
+   [
+    "Flow: Forms → Sheets",
+    false
+   ],
+   [
+    "Recipient: support team",
+    false
+   ],
+   [
+    "Format: subject, placeholders, fields",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 37,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task: email template",
+    false
+   ],
+   [
+    "Flow: Forms → Sheets",
+    false
+   ],
+   [
+    "Recipient: support team",
+    false
+   ],
+   [
+    "Format: subject, placeholders, fields",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 37,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task: email template",
+    false
+   ],
+   [
+    "Flow: Forms → Sheets",
+    false
+   ],
+   [
+    "Recipient: support team",
+    false
+   ],
+   [
+    "Format: subject, placeholders, fields",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 37,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 1.3,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task: email template",
+    true
+   ],
+   [
+    "Flow: Forms → Sheets",
+    true
+   ],
+   [
+    "Recipient: support team",
+    false
+   ],
+   [
+    "Format: subject, placeholders, fields",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 37,
+  "answer": "Write a prompt to create a professional email template for a support ticket system.",
+  "score": 1,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task: email template",
+    true
+   ],
+   [
+    "Flow: Forms → Sheets",
+    false
+   ],
+   [
+    "Recipient: support team",
+    true
+   ],
+   [
+    "Format: subject, placeholders, fields",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 37,
+  "answer": "Scenario: A student submits a doubt through Google Forms. Data goes to Google Sheets. Email should go to the support team.",
+  "score": 1.8,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task: email template",
+    true
+   ],
+   [
+    "Flow: Forms → Sheets",
+    true
+   ],
+   [
+    "Recipient: support team",
+    true
+   ],
+   [
+    "Format: subject, placeholders, fields",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 37,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task: email template",
+    false
+   ],
+   [
+    "Flow: Forms → Sheets",
+    false
+   ],
+   [
+    "Recipient: support team",
+    false
+   ],
+   [
+    "Format: subject, placeholders, fields",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 37,
+  "answer": "Role. Task: email template. Flow: Forms → Sheets. Recipient: support team. Format: subject, placeholders, fields",
+  "score": 2,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task: email template",
+    true
+   ],
+   [
+    "Flow: Forms → Sheets",
+    true
+   ],
+   [
+    "Recipient: support team",
+    true
+   ],
+   [
+    "Format: subject, placeholders, fields",
+    true
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 37,
+  "answer": " Role and Task: email template and Flow: Forms → Sheets and Recipient: support team and Format: subject, placeholders, fields plus more words to pass the minimum",
+  "score": 2.5,
+  "hits": [
+   [
+    "Role",
+    false
+   ],
+   [
+    "Task: email template",
+    true
+   ],
+   [
+    "Flow: Forms → Sheets",
+    true
+   ],
+   [
+    "Recipient: support team",
+    true
+   ],
+   [
+    "Format: subject, placeholders, fields",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 38,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Step: topic ideas",
+    false
+   ],
+   [
+    "Step: select best topic",
+    false
+   ],
+   [
+    "Step: title",
+    false
+   ],
+   [
+    "Step: script",
+    false
+   ],
+   [
+    "Step: description & tags",
+    false
+   ],
+   [
+    "Chained (uses previous output)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 38,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Step: topic ideas",
+    false
+   ],
+   [
+    "Step: select best topic",
+    false
+   ],
+   [
+    "Step: title",
+    false
+   ],
+   [
+    "Step: script",
+    false
+   ],
+   [
+    "Step: description & tags",
+    false
+   ],
+   [
+    "Chained (uses previous output)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 38,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Step: topic ideas",
+    false
+   ],
+   [
+    "Step: select best topic",
+    false
+   ],
+   [
+    "Step: title",
+    false
+   ],
+   [
+    "Step: script",
+    false
+   ],
+   [
+    "Step: description & tags",
+    false
+   ],
+   [
+    "Chained (uses previous output)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 38,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0.5,
+  "hits": [
+   [
+    "Step: topic ideas",
+    true
+   ],
+   [
+    "Step: select best topic",
+    false
+   ],
+   [
+    "Step: title",
+    false
+   ],
+   [
+    "Step: script",
+    false
+   ],
+   [
+    "Step: description & tags",
+    false
+   ],
+   [
+    "Chained (uses previous output)",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 38,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0,
+  "hits": [
+   [
+    "Step: topic ideas",
+    false
+   ],
+   [
+    "Step: select best topic",
+    false
+   ],
+   [
+    "Step: title",
+    false
+   ],
+   [
+    "Step: script",
+    false
+   ],
+   [
+    "Step: description & tags",
+    false
+   ],
+   [
+    "Chained (uses previous output)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 38,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 3,
+  "hits": [
+   [
+    "Step: topic ideas",
+    true
+   ],
+   [
+    "Step: select best topic",
+    true
+   ],
+   [
+    "Step: title",
+    true
+   ],
+   [
+    "Step: script",
+    true
+   ],
+   [
+    "Step: description & tags",
+    true
+   ],
+   [
+    "Chained (uses previous output)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 38,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0.4,
+  "hits": [
+   [
+    "Step: topic ideas",
+    false
+   ],
+   [
+    "Step: select best topic",
+    false
+   ],
+   [
+    "Step: title",
+    false
+   ],
+   [
+    "Step: script",
+    false
+   ],
+   [
+    "Step: description & tags",
+    false
+   ],
+   [
+    "Chained (uses previous output)",
+    true
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 38,
+  "answer": "Write a Sequential Prompt Chain for creating a YouTube video.",
+  "score": 0,
+  "hits": [
+   [
+    "Step: topic ideas",
+    false
+   ],
+   [
+    "Step: select best topic",
+    false
+   ],
+   [
+    "Step: title",
+    false
+   ],
+   [
+    "Step: script",
+    false
+   ],
+   [
+    "Step: description & tags",
+    false
+   ],
+   [
+    "Chained (uses previous output)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 38,
+  "answer": "Include: generate topic ideas, select best topic, create title, create script, create description and tags.",
+  "score": 2,
+  "hits": [
+   [
+    "Step: topic ideas",
+    true
+   ],
+   [
+    "Step: select best topic",
+    true
+   ],
+   [
+    "Step: title",
+    true
+   ],
+   [
+    "Step: script",
+    true
+   ],
+   [
+    "Step: description & tags",
+    true
+   ],
+   [
+    "Chained (uses previous output)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 38,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Step: topic ideas",
+    false
+   ],
+   [
+    "Step: select best topic",
+    false
+   ],
+   [
+    "Step: title",
+    false
+   ],
+   [
+    "Step: script",
+    false
+   ],
+   [
+    "Step: description & tags",
+    false
+   ],
+   [
+    "Chained (uses previous output)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 38,
+  "answer": "Step: topic ideas. Step: select best topic. Step: title. Step: script. Step: description & tags. Chained (uses previous output)",
+  "score": 2,
+  "hits": [
+   [
+    "Step: topic ideas",
+    true
+   ],
+   [
+    "Step: select best topic",
+    true
+   ],
+   [
+    "Step: title",
+    true
+   ],
+   [
+    "Step: script",
+    true
+   ],
+   [
+    "Step: description & tags",
+    true
+   ],
+   [
+    "Chained (uses previous output)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 38,
+  "answer": " Step: topic ideas and Step: select best topic and Step: title and Step: script and Step: description & tags and Chained (uses previous output) plus more words to pass the minimum",
+  "score": 2.5,
+  "hits": [
+   [
+    "Step: topic ideas",
+    true
+   ],
+   [
+    "Step: select best topic",
+    true
+   ],
+   [
+    "Step: title",
+    true
+   ],
+   [
+    "Step: script",
+    true
+   ],
+   [
+    "Step: description & tags",
+    true
+   ],
+   [
+    "Chained (uses previous output)",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 39,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Asks for step-by-step thinking",
+    false
+   ],
+   [
+    "Customer support automation context",
+    false
+   ],
+   [
+    "Structured reasoning path (identify → options → recommend)",
+    false
+   ],
+   [
+    "Small business constraints",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 39,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Asks for step-by-step thinking",
+    false
+   ],
+   [
+    "Customer support automation context",
+    false
+   ],
+   [
+    "Structured reasoning path (identify → options → recommend)",
+    false
+   ],
+   [
+    "Small business constraints",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 39,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Asks for step-by-step thinking",
+    false
+   ],
+   [
+    "Customer support automation context",
+    false
+   ],
+   [
+    "Structured reasoning path (identify → options → recommend)",
+    false
+   ],
+   [
+    "Small business constraints",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 39,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 1.6,
+  "hits": [
+   [
+    "Asks for step-by-step thinking",
+    true
+   ],
+   [
+    "Customer support automation context",
+    false
+   ],
+   [
+    "Structured reasoning path (identify → options → recommend)",
+    false
+   ],
+   [
+    "Small business constraints",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 39,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 1.6,
+  "hits": [
+   [
+    "Asks for step-by-step thinking",
+    true
+   ],
+   [
+    "Customer support automation context",
+    false
+   ],
+   [
+    "Structured reasoning path (identify → options → recommend)",
+    true
+   ],
+   [
+    "Small business constraints",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 39,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0.6,
+  "hits": [
+   [
+    "Asks for step-by-step thinking",
+    false
+   ],
+   [
+    "Customer support automation context",
+    false
+   ],
+   [
+    "Structured reasoning path (identify → options → recommend)",
+    true
+   ],
+   [
+    "Small business constraints",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 39,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0.6,
+  "hits": [
+   [
+    "Asks for step-by-step thinking",
+    false
+   ],
+   [
+    "Customer support automation context",
+    false
+   ],
+   [
+    "Structured reasoning path (identify → options → recommend)",
+    true
+   ],
+   [
+    "Small business constraints",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 39,
+  "answer": "Write a CoT-style prompt for solving a business problem.",
+  "score": 0,
+  "hits": [
+   [
+    "Asks for step-by-step thinking",
+    false
+   ],
+   [
+    "Customer support automation context",
+    false
+   ],
+   [
+    "Structured reasoning path (identify → options → recommend)",
+    false
+   ],
+   [
+    "Small business constraints",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 39,
+  "answer": "Scenario: A small business owner wants to automate customer support using AI.",
+  "score": 1.1,
+  "hits": [
+   [
+    "Asks for step-by-step thinking",
+    false
+   ],
+   [
+    "Customer support automation context",
+    true
+   ],
+   [
+    "Structured reasoning path (identify → options → recommend)",
+    false
+   ],
+   [
+    "Small business constraints",
+    true
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 39,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Asks for step-by-step thinking",
+    false
+   ],
+   [
+    "Customer support automation context",
+    false
+   ],
+   [
+    "Structured reasoning path (identify → options → recommend)",
+    false
+   ],
+   [
+    "Small business constraints",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 39,
+  "answer": "Asks for step-by-step thinking. Customer support automation context. Structured reasoning path (identify → options → recommend). Small business constraints",
+  "score": 2.4,
+  "hits": [
+   [
+    "Asks for step-by-step thinking",
+    true
+   ],
+   [
+    "Customer support automation context",
+    true
+   ],
+   [
+    "Structured reasoning path (identify → options → recommend)",
+    true
+   ],
+   [
+    "Small business constraints",
+    true
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 39,
+  "answer": " Asks for step-by-step thinking and Customer support automation context and Structured reasoning path (identify → options → recommend) and Small business constraints plus more words to pass the minimum",
+  "score": 3,
+  "hits": [
+   [
+    "Asks for step-by-step thinking",
+    true
+   ],
+   [
+    "Customer support automation context",
+    true
+   ],
+   [
+    "Structured reasoning path (identify → options → recommend)",
+    true
+   ],
+   [
+    "Small business constraints",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 40,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Multiple branches / paths explored",
+    false
+   ],
+   [
+    "ChatGPT",
+    false
+   ],
+   [
+    "Claude",
+    false
+   ],
+   [
+    "Gemini",
+    false
+   ],
+   [
+    "Local LLM",
+    false
+   ],
+   [
+    "Evaluate against criteria",
+    false
+   ],
+   [
+    "Decide the best",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 40,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Multiple branches / paths explored",
+    false
+   ],
+   [
+    "ChatGPT",
+    false
+   ],
+   [
+    "Claude",
+    false
+   ],
+   [
+    "Gemini",
+    false
+   ],
+   [
+    "Local LLM",
+    false
+   ],
+   [
+    "Evaluate against criteria",
+    false
+   ],
+   [
+    "Decide the best",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 40,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Multiple branches / paths explored",
+    false
+   ],
+   [
+    "ChatGPT",
+    false
+   ],
+   [
+    "Claude",
+    false
+   ],
+   [
+    "Gemini",
+    false
+   ],
+   [
+    "Local LLM",
+    false
+   ],
+   [
+    "Evaluate against criteria",
+    false
+   ],
+   [
+    "Decide the best",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 40,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0,
+  "hits": [
+   [
+    "Multiple branches / paths explored",
+    false
+   ],
+   [
+    "ChatGPT",
+    false
+   ],
+   [
+    "Claude",
+    false
+   ],
+   [
+    "Gemini",
+    false
+   ],
+   [
+    "Local LLM",
+    false
+   ],
+   [
+    "Evaluate against criteria",
+    false
+   ],
+   [
+    "Decide the best",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 40,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0.5,
+  "hits": [
+   [
+    "Multiple branches / paths explored",
+    false
+   ],
+   [
+    "ChatGPT",
+    false
+   ],
+   [
+    "Claude",
+    false
+   ],
+   [
+    "Gemini",
+    false
+   ],
+   [
+    "Local LLM",
+    false
+   ],
+   [
+    "Evaluate against criteria",
+    true
+   ],
+   [
+    "Decide the best",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 40,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 1,
+  "hits": [
+   [
+    "Multiple branches / paths explored",
+    false
+   ],
+   [
+    "ChatGPT",
+    false
+   ],
+   [
+    "Claude",
+    false
+   ],
+   [
+    "Gemini",
+    false
+   ],
+   [
+    "Local LLM",
+    false
+   ],
+   [
+    "Evaluate against criteria",
+    true
+   ],
+   [
+    "Decide the best",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 40,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0.8,
+  "hits": [
+   [
+    "Multiple branches / paths explored",
+    true
+   ],
+   [
+    "ChatGPT",
+    false
+   ],
+   [
+    "Claude",
+    false
+   ],
+   [
+    "Gemini",
+    false
+   ],
+   [
+    "Local LLM",
+    false
+   ],
+   [
+    "Evaluate against criteria",
+    false
+   ],
+   [
+    "Decide the best",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 40,
+  "answer": "Write a Tree of Thoughts prompt for choosing the best AI tool for a company.",
+  "score": 1,
+  "hits": [
+   [
+    "Multiple branches / paths explored",
+    true
+   ],
+   [
+    "ChatGPT",
+    false
+   ],
+   [
+    "Claude",
+    false
+   ],
+   [
+    "Gemini",
+    false
+   ],
+   [
+    "Local LLM",
+    false
+   ],
+   [
+    "Evaluate against criteria",
+    false
+   ],
+   [
+    "Decide the best",
+    true
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 40,
+  "answer": "Compare: ChatGPT, Claude, Gemini, Local LLM.",
+  "score": 0,
+  "hits": [
+   [
+    "Multiple branches / paths explored",
+    false
+   ],
+   [
+    "ChatGPT",
+    false
+   ],
+   [
+    "Claude",
+    false
+   ],
+   [
+    "Gemini",
+    false
+   ],
+   [
+    "Local LLM",
+    false
+   ],
+   [
+    "Evaluate against criteria",
+    false
+   ],
+   [
+    "Decide the best",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 40,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Multiple branches / paths explored",
+    false
+   ],
+   [
+    "ChatGPT",
+    false
+   ],
+   [
+    "Claude",
+    false
+   ],
+   [
+    "Gemini",
+    false
+   ],
+   [
+    "Local LLM",
+    false
+   ],
+   [
+    "Evaluate against criteria",
+    false
+   ],
+   [
+    "Decide the best",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 40,
+  "answer": "Multiple branches / paths explored. ChatGPT. Claude. Gemini. Local LLM. Evaluate against criteria. Decide the best",
+  "score": 2.4,
+  "hits": [
+   [
+    "Multiple branches / paths explored",
+    true
+   ],
+   [
+    "ChatGPT",
+    true
+   ],
+   [
+    "Claude",
+    true
+   ],
+   [
+    "Gemini",
+    true
+   ],
+   [
+    "Local LLM",
+    true
+   ],
+   [
+    "Evaluate against criteria",
+    true
+   ],
+   [
+    "Decide the best",
+    true
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 40,
+  "answer": " Multiple branches / paths explored and ChatGPT and Claude and Gemini and Local LLM and Evaluate against criteria and Decide the best plus more words to pass the minimum",
+  "score": 3,
+  "hits": [
+   [
+    "Multiple branches / paths explored",
+    true
+   ],
+   [
+    "ChatGPT",
+    true
+   ],
+   [
+    "Claude",
+    true
+   ],
+   [
+    "Gemini",
+    true
+   ],
+   [
+    "Local LLM",
+    true
+   ],
+   [
+    "Evaluate against criteria",
+    true
+   ],
+   [
+    "Decide the best",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 41,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Thought → Action → Observation loop",
+    false
+   ],
+   [
+    "Tool: Google Sheets",
+    false
+   ],
+   [
+    "Summarize new leads",
+    false
+   ],
+   [
+    "Draft Gmail follow-up",
+    false
+   ],
+   [
+    "Tools listed / defined",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 41,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Thought → Action → Observation loop",
+    false
+   ],
+   [
+    "Tool: Google Sheets",
+    false
+   ],
+   [
+    "Summarize new leads",
+    false
+   ],
+   [
+    "Draft Gmail follow-up",
+    false
+   ],
+   [
+    "Tools listed / defined",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 41,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Thought → Action → Observation loop",
+    false
+   ],
+   [
+    "Tool: Google Sheets",
+    false
+   ],
+   [
+    "Summarize new leads",
+    false
+   ],
+   [
+    "Draft Gmail follow-up",
+    false
+   ],
+   [
+    "Tools listed / defined",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 41,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0,
+  "hits": [
+   [
+    "Thought → Action → Observation loop",
+    false
+   ],
+   [
+    "Tool: Google Sheets",
+    false
+   ],
+   [
+    "Summarize new leads",
+    false
+   ],
+   [
+    "Draft Gmail follow-up",
+    false
+   ],
+   [
+    "Tools listed / defined",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 41,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 1,
+  "hits": [
+   [
+    "Thought → Action → Observation loop",
+    true
+   ],
+   [
+    "Tool: Google Sheets",
+    false
+   ],
+   [
+    "Summarize new leads",
+    false
+   ],
+   [
+    "Draft Gmail follow-up",
+    false
+   ],
+   [
+    "Tools listed / defined",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 41,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Thought → Action → Observation loop",
+    false
+   ],
+   [
+    "Tool: Google Sheets",
+    false
+   ],
+   [
+    "Summarize new leads",
+    false
+   ],
+   [
+    "Draft Gmail follow-up",
+    false
+   ],
+   [
+    "Tools listed / defined",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 41,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 2.5,
+  "hits": [
+   [
+    "Thought → Action → Observation loop",
+    true
+   ],
+   [
+    "Tool: Google Sheets",
+    true
+   ],
+   [
+    "Summarize new leads",
+    true
+   ],
+   [
+    "Draft Gmail follow-up",
+    true
+   ],
+   [
+    "Tools listed / defined",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 41,
+  "answer": "Write a ReAct prompt for an AI agent that uses tools.",
+  "score": 0.8,
+  "hits": [
+   [
+    "Thought → Action → Observation loop",
+    true
+   ],
+   [
+    "Tool: Google Sheets",
+    false
+   ],
+   [
+    "Summarize new leads",
+    false
+   ],
+   [
+    "Draft Gmail follow-up",
+    false
+   ],
+   [
+    "Tools listed / defined",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 41,
+  "answer": "Scenario: The agent should check Google Sheets, summarize new leads, and draft a Gmail follow-up.",
+  "score": 1.2,
+  "hits": [
+   [
+    "Thought → Action → Observation loop",
+    false
+   ],
+   [
+    "Tool: Google Sheets",
+    true
+   ],
+   [
+    "Summarize new leads",
+    true
+   ],
+   [
+    "Draft Gmail follow-up",
+    true
+   ],
+   [
+    "Tools listed / defined",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 41,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Thought → Action → Observation loop",
+    false
+   ],
+   [
+    "Tool: Google Sheets",
+    false
+   ],
+   [
+    "Summarize new leads",
+    false
+   ],
+   [
+    "Draft Gmail follow-up",
+    false
+   ],
+   [
+    "Tools listed / defined",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 41,
+  "answer": "Thought → Action → Observation loop. Tool: Google Sheets. Summarize new leads. Draft Gmail follow-up. Tools listed / defined",
+  "score": 2.4,
+  "hits": [
+   [
+    "Thought → Action → Observation loop",
+    true
+   ],
+   [
+    "Tool: Google Sheets",
+    true
+   ],
+   [
+    "Summarize new leads",
+    true
+   ],
+   [
+    "Draft Gmail follow-up",
+    true
+   ],
+   [
+    "Tools listed / defined",
+    true
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 41,
+  "answer": " Thought → Action → Observation loop and Tool: Google Sheets and Summarize new leads and Draft Gmail follow-up and Tools listed / defined plus more words to pass the minimum",
+  "score": 3,
+  "hits": [
+   [
+    "Thought → Action → Observation loop",
+    true
+   ],
+   [
+    "Tool: Google Sheets",
+    true
+   ],
+   [
+    "Summarize new leads",
+    true
+   ],
+   [
+    "Draft Gmail follow-up",
+    true
+   ],
+   [
+    "Tools listed / defined",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 42,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Agent: Marketing expert",
+    false
+   ],
+   [
+    "Agent: Sales expert",
+    false
+   ],
+   [
+    "Agent: Product manager",
+    false
+   ],
+   [
+    "Collaborate / debate / critique",
+    false
+   ],
+   [
+    "Product launch goal",
+    false
+   ],
+   [
+    "Final consolidated plan",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 42,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Agent: Marketing expert",
+    false
+   ],
+   [
+    "Agent: Sales expert",
+    false
+   ],
+   [
+    "Agent: Product manager",
+    false
+   ],
+   [
+    "Collaborate / debate / critique",
+    false
+   ],
+   [
+    "Product launch goal",
+    false
+   ],
+   [
+    "Final consolidated plan",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 42,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Agent: Marketing expert",
+    false
+   ],
+   [
+    "Agent: Sales expert",
+    false
+   ],
+   [
+    "Agent: Product manager",
+    false
+   ],
+   [
+    "Collaborate / debate / critique",
+    false
+   ],
+   [
+    "Product launch goal",
+    false
+   ],
+   [
+    "Final consolidated plan",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 42,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0.4,
+  "hits": [
+   [
+    "Agent: Marketing expert",
+    false
+   ],
+   [
+    "Agent: Sales expert",
+    false
+   ],
+   [
+    "Agent: Product manager",
+    false
+   ],
+   [
+    "Collaborate / debate / critique",
+    false
+   ],
+   [
+    "Product launch goal",
+    false
+   ],
+   [
+    "Final consolidated plan",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 42,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0,
+  "hits": [
+   [
+    "Agent: Marketing expert",
+    false
+   ],
+   [
+    "Agent: Sales expert",
+    false
+   ],
+   [
+    "Agent: Product manager",
+    false
+   ],
+   [
+    "Collaborate / debate / critique",
+    false
+   ],
+   [
+    "Product launch goal",
+    false
+   ],
+   [
+    "Final consolidated plan",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 42,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Agent: Marketing expert",
+    false
+   ],
+   [
+    "Agent: Sales expert",
+    false
+   ],
+   [
+    "Agent: Product manager",
+    false
+   ],
+   [
+    "Collaborate / debate / critique",
+    false
+   ],
+   [
+    "Product launch goal",
+    false
+   ],
+   [
+    "Final consolidated plan",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 42,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Agent: Marketing expert",
+    false
+   ],
+   [
+    "Agent: Sales expert",
+    false
+   ],
+   [
+    "Agent: Product manager",
+    false
+   ],
+   [
+    "Collaborate / debate / critique",
+    false
+   ],
+   [
+    "Product launch goal",
+    false
+   ],
+   [
+    "Final consolidated plan",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 42,
+  "answer": "Write a Multi-agent AI prompt for planning a product launch.",
+  "score": 0,
+  "hits": [
+   [
+    "Agent: Marketing expert",
+    false
+   ],
+   [
+    "Agent: Sales expert",
+    false
+   ],
+   [
+    "Agent: Product manager",
+    false
+   ],
+   [
+    "Collaborate / debate / critique",
+    false
+   ],
+   [
+    "Product launch goal",
+    false
+   ],
+   [
+    "Final consolidated plan",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 42,
+  "answer": "Use at least three agents: Marketing expert, Sales expert, Product manager.",
+  "score": 0,
+  "hits": [
+   [
+    "Agent: Marketing expert",
+    false
+   ],
+   [
+    "Agent: Sales expert",
+    false
+   ],
+   [
+    "Agent: Product manager",
+    false
+   ],
+   [
+    "Collaborate / debate / critique",
+    false
+   ],
+   [
+    "Product launch goal",
+    false
+   ],
+   [
+    "Final consolidated plan",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 42,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Agent: Marketing expert",
+    false
+   ],
+   [
+    "Agent: Sales expert",
+    false
+   ],
+   [
+    "Agent: Product manager",
+    false
+   ],
+   [
+    "Collaborate / debate / critique",
+    false
+   ],
+   [
+    "Product launch goal",
+    false
+   ],
+   [
+    "Final consolidated plan",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 42,
+  "answer": "Agent: Marketing expert. Agent: Sales expert. Agent: Product manager. Collaborate / debate / critique. Product launch goal. Final consolidated plan",
+  "score": 2.4,
+  "hits": [
+   [
+    "Agent: Marketing expert",
+    true
+   ],
+   [
+    "Agent: Sales expert",
+    true
+   ],
+   [
+    "Agent: Product manager",
+    true
+   ],
+   [
+    "Collaborate / debate / critique",
+    true
+   ],
+   [
+    "Product launch goal",
+    true
+   ],
+   [
+    "Final consolidated plan",
+    true
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 42,
+  "answer": " Agent: Marketing expert and Agent: Sales expert and Agent: Product manager and Collaborate / debate / critique and Product launch goal and Final consolidated plan plus more words to pass the minimum",
+  "score": 3,
+  "hits": [
+   [
+    "Agent: Marketing expert",
+    true
+   ],
+   [
+    "Agent: Sales expert",
+    true
+   ],
+   [
+    "Agent: Product manager",
+    true
+   ],
+   [
+    "Collaborate / debate / critique",
+    true
+   ],
+   [
+    "Product launch goal",
+    true
+   ],
+   [
+    "Final consolidated plan",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 43,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Blocks “ignore previous instructions”",
+    false
+   ],
+   [
+    "Blocks revealing hidden / system prompt",
+    false
+   ],
+   [
+    "Refuse politely and continue",
+    false
+   ],
+   [
+    "Treats user input as untrusted / priority order",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 43,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Blocks “ignore previous instructions”",
+    false
+   ],
+   [
+    "Blocks revealing hidden / system prompt",
+    false
+   ],
+   [
+    "Refuse politely and continue",
+    false
+   ],
+   [
+    "Treats user input as untrusted / priority order",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 43,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Blocks “ignore previous instructions”",
+    false
+   ],
+   [
+    "Blocks revealing hidden / system prompt",
+    false
+   ],
+   [
+    "Refuse politely and continue",
+    false
+   ],
+   [
+    "Treats user input as untrusted / priority order",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 43,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0,
+  "hits": [
+   [
+    "Blocks “ignore previous instructions”",
+    false
+   ],
+   [
+    "Blocks revealing hidden / system prompt",
+    false
+   ],
+   [
+    "Refuse politely and continue",
+    false
+   ],
+   [
+    "Treats user input as untrusted / priority order",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 43,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0,
+  "hits": [
+   [
+    "Blocks “ignore previous instructions”",
+    false
+   ],
+   [
+    "Blocks revealing hidden / system prompt",
+    false
+   ],
+   [
+    "Refuse politely and continue",
+    false
+   ],
+   [
+    "Treats user input as untrusted / priority order",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 43,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Blocks “ignore previous instructions”",
+    false
+   ],
+   [
+    "Blocks revealing hidden / system prompt",
+    false
+   ],
+   [
+    "Refuse politely and continue",
+    false
+   ],
+   [
+    "Treats user input as untrusted / priority order",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 43,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Blocks “ignore previous instructions”",
+    false
+   ],
+   [
+    "Blocks revealing hidden / system prompt",
+    false
+   ],
+   [
+    "Refuse politely and continue",
+    false
+   ],
+   [
+    "Treats user input as untrusted / priority order",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 43,
+  "answer": "Write a prompt injection defense instruction for a system prompt.",
+  "score": 0.6,
+  "hits": [
+   [
+    "Blocks “ignore previous instructions”",
+    false
+   ],
+   [
+    "Blocks revealing hidden / system prompt",
+    true
+   ],
+   [
+    "Refuse politely and continue",
+    false
+   ],
+   [
+    "Treats user input as untrusted / priority order",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 43,
+  "answer": "Scenario: The AI should not follow user instructions that ask it to ignore previous instructions or reveal hidden instructions.",
+  "score": 1.3,
+  "hits": [
+   [
+    "Blocks “ignore previous instructions”",
+    true
+   ],
+   [
+    "Blocks revealing hidden / system prompt",
+    true
+   ],
+   [
+    "Refuse politely and continue",
+    false
+   ],
+   [
+    "Treats user input as untrusted / priority order",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 43,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Blocks “ignore previous instructions”",
+    false
+   ],
+   [
+    "Blocks revealing hidden / system prompt",
+    false
+   ],
+   [
+    "Refuse politely and continue",
+    false
+   ],
+   [
+    "Treats user input as untrusted / priority order",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 43,
+  "answer": "Blocks “ignore previous instructions”. Blocks revealing hidden / system prompt. Refuse politely and continue. Treats user input as untrusted / priority order",
+  "score": 3,
+  "hits": [
+   [
+    "Blocks “ignore previous instructions”",
+    true
+   ],
+   [
+    "Blocks revealing hidden / system prompt",
+    true
+   ],
+   [
+    "Refuse politely and continue",
+    true
+   ],
+   [
+    "Treats user input as untrusted / priority order",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 43,
+  "answer": " Blocks “ignore previous instructions” and Blocks revealing hidden / system prompt and Refuse politely and continue and Treats user input as untrusted / priority order plus more words to pass the minimum",
+  "score": 3,
+  "hits": [
+   [
+    "Blocks “ignore previous instructions”",
+    true
+   ],
+   [
+    "Blocks revealing hidden / system prompt",
+    true
+   ],
+   [
+    "Refuse politely and continue",
+    true
+   ],
+   [
+    "Treats user input as untrusted / priority order",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 44,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Supplies the post",
+    false
+   ],
+   [
+    "Asks AI to create the prompt",
+    false
+   ],
+   [
+    "Analyse structure / tone / hook",
+    false
+   ],
+   [
+    "Reusable for similar posts",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 44,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Supplies the post",
+    false
+   ],
+   [
+    "Asks AI to create the prompt",
+    false
+   ],
+   [
+    "Analyse structure / tone / hook",
+    false
+   ],
+   [
+    "Reusable for similar posts",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 44,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Supplies the post",
+    false
+   ],
+   [
+    "Asks AI to create the prompt",
+    false
+   ],
+   [
+    "Analyse structure / tone / hook",
+    false
+   ],
+   [
+    "Reusable for similar posts",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 44,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0.8,
+  "hits": [
+   [
+    "Supplies the post",
+    false
+   ],
+   [
+    "Asks AI to create the prompt",
+    false
+   ],
+   [
+    "Analyse structure / tone / hook",
+    true
+   ],
+   [
+    "Reusable for similar posts",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 44,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0.8,
+  "hits": [
+   [
+    "Supplies the post",
+    false
+   ],
+   [
+    "Asks AI to create the prompt",
+    false
+   ],
+   [
+    "Analyse structure / tone / hook",
+    true
+   ],
+   [
+    "Reusable for similar posts",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 44,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Supplies the post",
+    false
+   ],
+   [
+    "Asks AI to create the prompt",
+    false
+   ],
+   [
+    "Analyse structure / tone / hook",
+    false
+   ],
+   [
+    "Reusable for similar posts",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 44,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Supplies the post",
+    false
+   ],
+   [
+    "Asks AI to create the prompt",
+    false
+   ],
+   [
+    "Analyse structure / tone / hook",
+    false
+   ],
+   [
+    "Reusable for similar posts",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 44,
+  "answer": "Write a reverse prompting request.",
+  "score": 0,
+  "hits": [
+   [
+    "Supplies the post",
+    false
+   ],
+   [
+    "Asks AI to create the prompt",
+    false
+   ],
+   [
+    "Analyse structure / tone / hook",
+    false
+   ],
+   [
+    "Reusable for similar posts",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 44,
+  "answer": "Scenario: You saw a very good LinkedIn post and want AI to create the prompt that could generate similar posts.",
+  "score": 2.2,
+  "hits": [
+   [
+    "Supplies the post",
+    true
+   ],
+   [
+    "Asks AI to create the prompt",
+    true
+   ],
+   [
+    "Analyse structure / tone / hook",
+    false
+   ],
+   [
+    "Reusable for similar posts",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 44,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Supplies the post",
+    false
+   ],
+   [
+    "Asks AI to create the prompt",
+    false
+   ],
+   [
+    "Analyse structure / tone / hook",
+    false
+   ],
+   [
+    "Reusable for similar posts",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 44,
+  "answer": "Supplies the post. Asks AI to create the prompt. Analyse structure / tone / hook. Reusable for similar posts",
+  "score": 2.4,
+  "hits": [
+   [
+    "Supplies the post",
+    true
+   ],
+   [
+    "Asks AI to create the prompt",
+    true
+   ],
+   [
+    "Analyse structure / tone / hook",
+    true
+   ],
+   [
+    "Reusable for similar posts",
+    true
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 44,
+  "answer": " Supplies the post and Asks AI to create the prompt and Analyse structure / tone / hook and Reusable for similar posts plus more words to pass the minimum",
+  "score": 3,
+  "hits": [
+   [
+    "Supplies the post",
+    true
+   ],
+   [
+    "Asks AI to create the prompt",
+    true
+   ],
+   [
+    "Analyse structure / tone / hook",
+    true
+   ],
+   [
+    "Reusable for similar posts",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 45,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Power keywords used",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 45,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Power keywords used",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 45,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0.5,
+  "hits": [
+   [
+    "Power keywords used (1 found)",
+    true
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 45,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 3,
+  "hits": [
+   [
+    "Power keywords used (5 found)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 45,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 3,
+  "hits": [
+   [
+    "Power keywords used (5 found)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 45,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Power keywords used (0 found)",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 45,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0.6,
+  "hits": [
+   [
+    "Power keywords used (1 found)",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 45,
+  "answer": "Write a prompt using at least 5 powerful prompt keywords.",
+  "score": 0,
+  "hits": [
+   [
+    "Power keywords used (0 found)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 45,
+  "answer": "Use keywords like: Analyze deeply, Step-by-step, Practical examples, Checklist, Optimize for clarity.",
+  "score": 2.4,
+  "hits": [
+   [
+    "Power keywords used (5 found)",
+    true
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 45,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Power keywords used",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 45,
+  "answer": "Power keywords used",
+  "score": 0,
+  "hits": [
+   [
+    "Power keywords used",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 45,
+  "answer": " Power keywords used plus more words to pass the minimum",
+  "score": 0,
+  "hits": [
+   [
+    "Power keywords used (0 found)",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 46,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior YouTube strategist",
+    false
+   ],
+   [
+    "Task: create 10 viral titles",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 46,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior YouTube strategist",
+    false
+   ],
+   [
+    "Task: create 10 viral titles",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 46,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior YouTube strategist",
+    false
+   ],
+   [
+    "Task: create 10 viral titles",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 46,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior YouTube strategist",
+    false
+   ],
+   [
+    "Task: create 10 viral titles",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 46,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior YouTube strategist",
+    false
+   ],
+   [
+    "Task: create 10 viral titles",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 46,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 1,
+  "hits": [
+   [
+    "Role: senior YouTube strategist",
+    false
+   ],
+   [
+    "Task: create 10 viral titles",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 46,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior YouTube strategist",
+    false
+   ],
+   [
+    "Task: create 10 viral titles",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 46,
+  "answer": "Identify Role and Task from this prompt:",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior YouTube strategist",
+    false
+   ],
+   [
+    "Task: create 10 viral titles",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 46,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior YouTube strategist",
+    false
+   ],
+   [
+    "Task: create 10 viral titles",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 46,
+  "answer": "“Act as a senior YouTube strategist. Create 10 viral YouTube titles for a Tamil video about n8n automation.”",
+  "score": 2,
+  "hits": [
+   [
+    "Role: senior YouTube strategist",
+    true
+   ],
+   [
+    "Task: create 10 viral titles",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 46,
+  "answer": "Role: senior YouTube strategist. Task: create 10 viral titles",
+  "score": 2,
+  "hits": [
+   [
+    "Role: senior YouTube strategist",
+    true
+   ],
+   [
+    "Task: create 10 viral titles",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 46,
+  "answer": "“Act as a senior YouTube strategist. Create 10 viral YouTube titles for a Tamil video about n8n automation.” Role: senior YouTube strategist and Task: create 10 viral titles plus more words to pass the minimum",
+  "score": 2,
+  "hits": [
+   [
+    "Role: senior YouTube strategist",
+    true
+   ],
+   [
+    "Task: create 10 viral titles",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 47,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Beginner who knows basic Python",
+    false
+   ],
+   [
+    "Wants to become an AI automation developer",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 47,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Beginner who knows basic Python",
+    false
+   ],
+   [
+    "Wants to become an AI automation developer",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 47,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Beginner who knows basic Python",
+    false
+   ],
+   [
+    "Wants to become an AI automation developer",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 47,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 1,
+  "hits": [
+   [
+    "Beginner who knows basic Python",
+    true
+   ],
+   [
+    "Wants to become an AI automation developer",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 47,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0,
+  "hits": [
+   [
+    "Beginner who knows basic Python",
+    false
+   ],
+   [
+    "Wants to become an AI automation developer",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 47,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Beginner who knows basic Python",
+    false
+   ],
+   [
+    "Wants to become an AI automation developer",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 47,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Beginner who knows basic Python",
+    false
+   ],
+   [
+    "Wants to become an AI automation developer",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 47,
+  "answer": "Identify Context from this prompt:",
+  "score": 0,
+  "hits": [
+   [
+    "Beginner who knows basic Python",
+    false
+   ],
+   [
+    "Wants to become an AI automation developer",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 47,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Beginner who knows basic Python",
+    false
+   ],
+   [
+    "Wants to become an AI automation developer",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 47,
+  "answer": "“Act as a career coach. Create a 30-day learning plan for a beginner who knows basic Python and wants to become an AI automation developer.”",
+  "score": 2,
+  "hits": [
+   [
+    "Beginner who knows basic Python",
+    true
+   ],
+   [
+    "Wants to become an AI automation developer",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 47,
+  "answer": "Beginner who knows basic Python. Wants to become an AI automation developer",
+  "score": 2,
+  "hits": [
+   [
+    "Beginner who knows basic Python",
+    true
+   ],
+   [
+    "Wants to become an AI automation developer",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 47,
+  "answer": "“Act as a career coach. Create a 30-day learning plan for a beginner who knows basic Python and wants to become an AI automation developer.” Beginner who knows basic Python and Wants to become an AI automation developer plus more words to pass the minimum",
+  "score": 2,
+  "hits": [
+   [
+    "Beginner who knows basic Python",
+    true
+   ],
+   [
+    "Wants to become an AI automation developer",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 48,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "The three style examples are the few-shot",
+    false
+   ],
+   [
+    "Quotes at least one example title",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 48,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "The three style examples are the few-shot",
+    false
+   ],
+   [
+    "Quotes at least one example title",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 48,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "The three style examples are the few-shot",
+    false
+   ],
+   [
+    "Quotes at least one example title",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 48,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 1,
+  "hits": [
+   [
+    "The three style examples are the few-shot",
+    true
+   ],
+   [
+    "Quotes at least one example title",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 48,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 1,
+  "hits": [
+   [
+    "The three style examples are the few-shot",
+    true
+   ],
+   [
+    "Quotes at least one example title",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 48,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "The three style examples are the few-shot",
+    false
+   ],
+   [
+    "Quotes at least one example title",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 48,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "The three style examples are the few-shot",
+    false
+   ],
+   [
+    "Quotes at least one example title",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 48,
+  "answer": "Identify Few-shot from this prompt:",
+  "score": 0,
+  "hits": [
+   [
+    "The three style examples are the few-shot",
+    false
+   ],
+   [
+    "Quotes at least one example title",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 48,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "The three style examples are the few-shot",
+    false
+   ],
+   [
+    "Quotes at least one example title",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 48,
+  "answer": "“Generate Tamil YouTube titles. Style examples: 1. AI Tools வைத்து Business Automation பண்ணலாம் 2. ChatGPT கத்துக்கணும்? Start Here 3. n8n Automation Full Beginner Guide.”",
+  "score": 2,
+  "hits": [
+   [
+    "The three style examples are the few-shot",
+    true
+   ],
+   [
+    "Quotes at least one example title",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 48,
+  "answer": "The three style examples are the few-shot. Quotes at least one example title",
+  "score": 1,
+  "hits": [
+   [
+    "The three style examples are the few-shot",
+    true
+   ],
+   [
+    "Quotes at least one example title",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 48,
+  "answer": "“Generate Tamil YouTube titles. Style examples: 1. AI Tools வைத்து Business Automation பண்ணலாம் 2. ChatGPT கத்துக்கணும்? Start Here 3. n8n Automation Full Beginner Guide.” The three style examples are the few-shot and Quotes at least one example title plus more words to pass the minimum",
+  "score": 2,
+  "hits": [
+   [
+    "The three style examples are the few-shot",
+    true
+   ],
+   [
+    "Quotes at least one example title",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 49,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Table format",
+    false
+   ],
+   [
+    "Columns named",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 49,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Table format",
+    false
+   ],
+   [
+    "Columns named",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 49,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Table format",
+    false
+   ],
+   [
+    "Columns named",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 49,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 2,
+  "hits": [
+   [
+    "Table format",
+    true
+   ],
+   [
+    "Columns named",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 49,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 1,
+  "hits": [
+   [
+    "Table format",
+    true
+   ],
+   [
+    "Columns named",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 49,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 1,
+  "hits": [
+   [
+    "Table format",
+    false
+   ],
+   [
+    "Columns named",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 49,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Table format",
+    false
+   ],
+   [
+    "Columns named",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 49,
+  "answer": "Identify Response format from this prompt:",
+  "score": 0,
+  "hits": [
+   [
+    "Table format",
+    false
+   ],
+   [
+    "Columns named",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 49,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Table format",
+    false
+   ],
+   [
+    "Columns named",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 49,
+  "answer": "“Give the output in a table with columns: Day, Topic, Task, Tool, Expected Output.”",
+  "score": 2,
+  "hits": [
+   [
+    "Table format",
+    true
+   ],
+   [
+    "Columns named",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 49,
+  "answer": "Table format. Columns named",
+  "score": 2,
+  "hits": [
+   [
+    "Table format",
+    true
+   ],
+   [
+    "Columns named",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 49,
+  "answer": "“Give the output in a table with columns: Day, Topic, Task, Tool, Expected Output.” Table format and Columns named plus more words to pass the minimum",
+  "score": 2,
+  "hits": [
+   [
+    "Table format",
+    true
+   ],
+   [
+    "Columns named",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 50,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior AI trainer",
+    false
+   ],
+   [
+    "Task: beginner-friendly lesson plan",
+    false
+   ],
+   [
+    "Context: Tamil business owners new to AI",
+    false
+   ],
+   [
+    "Few-shot: simple English with Tanglish examples",
+    false
+   ],
+   [
+    "Format: table with lesson title, explanation, demo, practice task",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 50,
+  "answer": "ok",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior AI trainer",
+    false
+   ],
+   [
+    "Task: beginner-friendly lesson plan",
+    false
+   ],
+   [
+    "Context: Tamil business owners new to AI",
+    false
+   ],
+   [
+    "Few-shot: simple English with Tanglish examples",
+    false
+   ],
+   [
+    "Format: table with lesson title, explanation, demo, practice task",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 50,
+  "answer": "Act as a senior marketer. you are an expert coach.",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior AI trainer",
+    false
+   ],
+   [
+    "Task: beginner-friendly lesson plan",
+    false
+   ],
+   [
+    "Context: Tamil business owners new to AI",
+    false
+   ],
+   [
+    "Few-shot: simple English with Tanglish examples",
+    false
+   ],
+   [
+    "Format: table with lesson title, explanation, demo, practice task",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 50,
+  "answer": "Act as a senior AI trainer. Create a beginner-friendly lesson plan step-by-step for Tamil business owners new to AI. Example style: simple English with Tanglish examples. Give output in a table with columns Day, Topic, Task, Tool, Expected Output. Use bullet points, JSON, markdown, numbered list, checklist.",
+  "score": 2,
+  "hits": [
+   [
+    "Role: senior AI trainer",
+    true
+   ],
+   [
+    "Task: beginner-friendly lesson plan",
+    true
+   ],
+   [
+    "Context: Tamil business owners new to AI",
+    true
+   ],
+   [
+    "Few-shot: simple English with Tanglish examples",
+    true
+   ],
+   [
+    "Format: table with lesson title, explanation, demo, practice task",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 50,
+  "answer": "Analyze deeply, step by step, practical examples, checklist, optimize for clarity, pros and cons, concise, actionable, structured, bullet points, tables",
+  "score": 0.4,
+  "hits": [
+   [
+    "Role: senior AI trainer",
+    false
+   ],
+   [
+    "Task: beginner-friendly lesson plan",
+    false
+   ],
+   [
+    "Context: Tamil business owners new to AI",
+    false
+   ],
+   [
+    "Few-shot: simple English with Tanglish examples",
+    false
+   ],
+   [
+    "Format: table with lesson title, explanation, demo, practice task",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 50,
+  "answer": "Prompt 1: generate 10 topics.\nPrompt 2: then select the best topic using the previous output.\n3. write title\n4) script and description with tags",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior AI trainer",
+    false
+   ],
+   [
+    "Task: beginner-friendly lesson plan",
+    false
+   ],
+   [
+    "Context: Tamil business owners new to AI",
+    false
+   ],
+   [
+    "Few-shot: simple English with Tanglish examples",
+    false
+   ],
+   [
+    "Format: table with lesson title, explanation, demo, practice task",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 50,
+  "answer": "Thought: check the Google Sheet. Action: read new leads. Observation: 3 leads. Then summarize and draft a Gmail follow-up email.",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior AI trainer",
+    false
+   ],
+   [
+    "Task: beginner-friendly lesson plan",
+    false
+   ],
+   [
+    "Context: Tamil business owners new to AI",
+    false
+   ],
+   [
+    "Few-shot: simple English with Tanglish examples",
+    false
+   ],
+   [
+    "Format: table with lesson title, explanation, demo, practice task",
+    false
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 50,
+  "answer": "Identify all RTCFR elements from this prompt:",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior AI trainer",
+    false
+   ],
+   [
+    "Task: beginner-friendly lesson plan",
+    false
+   ],
+   [
+    "Context: Tamil business owners new to AI",
+    false
+   ],
+   [
+    "Few-shot: simple English with Tanglish examples",
+    false
+   ],
+   [
+    "Format: table with lesson title, explanation, demo, practice task",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 50,
+  "answer": "",
+  "score": 0,
+  "hits": [
+   [
+    "Role: senior AI trainer",
+    false
+   ],
+   [
+    "Task: beginner-friendly lesson plan",
+    false
+   ],
+   [
+    "Context: Tamil business owners new to AI",
+    false
+   ],
+   [
+    "Few-shot: simple English with Tanglish examples",
+    false
+   ],
+   [
+    "Format: table with lesson title, explanation, demo, practice task",
+    false
+   ]
+  ],
+  "short": true
+ },
+ {
+  "n": 50,
+  "answer": "“Act as a senior AI trainer. Create a beginner-friendly lesson plan on Prompt Engineering. My audience is Tamil business owners who are new to AI. Example style: simple English with Tanglish examples. Give output in table format with lesson title, explanation, demo, and practice task.”",
+  "score": 2,
+  "hits": [
+   [
+    "Role: senior AI trainer",
+    true
+   ],
+   [
+    "Task: beginner-friendly lesson plan",
+    true
+   ],
+   [
+    "Context: Tamil business owners new to AI",
+    true
+   ],
+   [
+    "Few-shot: simple English with Tanglish examples",
+    true
+   ],
+   [
+    "Format: table with lesson title, explanation, demo, practice task",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 50,
+  "answer": "Role: senior AI trainer. Task: beginner-friendly lesson plan. Context: Tamil business owners new to AI. Few-shot: simple English with Tanglish examples. Format: table with lesson title, explanation, demo, practice task",
+  "score": 2,
+  "hits": [
+   [
+    "Role: senior AI trainer",
+    true
+   ],
+   [
+    "Task: beginner-friendly lesson plan",
+    true
+   ],
+   [
+    "Context: Tamil business owners new to AI",
+    true
+   ],
+   [
+    "Few-shot: simple English with Tanglish examples",
+    true
+   ],
+   [
+    "Format: table with lesson title, explanation, demo, practice task",
+    true
+   ]
+  ],
+  "short": false
+ },
+ {
+  "n": 50,
+  "answer": "“Act as a senior AI trainer. Create a beginner-friendly lesson plan on Prompt Engineering. My audience is Tamil business owners who are new to AI. Example style: simple English with Tanglish examples. Give output in table format with lesson title, explanation, demo, and practice task.” Role: senior AI trainer and Task: beginner-friendly lesson plan and Context: Tamil business owners new to AI and Few-shot: simple English with Tanglish examples and Format: table with lesson title, explanation, demo, practice task plus more words to pass the minimum",
+  "score": 2,
+  "hits": [
+   [
+    "Role: senior AI trainer",
+    true
+   ],
+   [
+    "Task: beginner-friendly lesson plan",
+    true
+   ],
+   [
+    "Context: Tamil business owners new to AI",
+    true
+   ],
+   [
+    "Few-shot: simple English with Tanglish examples",
+    true
+   ],
+   [
+    "Format: table with lesson title, explanation, demo, practice task",
+    true
+   ]
+  ],
+  "short": false
+ }
+]
